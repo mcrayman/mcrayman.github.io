@@ -1,11 +1,8 @@
 export const contactsData = {
-    email: 'abusaid7388@gmail.com',
-    phone: '+8801608797655',
-    address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-    github: 'https://github.com/said7388',
-    facebook: 'https://www.facebook.com/abusaid.riyaz/',
-    linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-    twitter: 'https://twitter.com/said7388',
-    stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-    devUsername: "said7388"
+    email: 'mrmcmans@memphis.edu',
+    phone: '+9014173019',
+    address: 'Memphis, Tennessee - 38111 ',
+    github: 'https://github.com/mcrayman',
+    linkedIn: 'https://www.linkedin.com/in/matthew-mcmeans-085828195/',
+    figma: 'https://www.figma.com/files/user/1225570186704193805?fuid=1225570186704193805',
 }

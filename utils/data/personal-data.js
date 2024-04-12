@@ -1,17 +1,14 @@
 export const personalData = {
-  name: "ABU SAID",
+  name: "MATTHEW MCMEANS",
   profile: '/profile.png',
-  designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  designation: "Software Engineer",
+  description: "My name is Matthew McMeans. As a dedicated and professional programmer, I approach each day with enthusiasm for my craft. I possess a natural ability to learn quickly and a strong propensity for self-education. I am deeply passionate about discovering new technologies and excel at solving complex problems. My expertise primarily lies in web application development, where I enjoy using my skills to make the internet more accessible. JavaScript is my fundamental strength, and I prefer to use it for most of my projects. I am open to job opportunities that align with my skills and passions.",
+  email: 'mrmcmans@memphis.edu',
+  phone: '+9014173019',
+  address: 'Memphis, Tennessee - 38111',
+  github: 'https://github.com/mcrayman',
+  linkedIn: 'https://www.linkedin.com/in/matthew-mcmeans-085828195/',
+  leetcode: "https://leetcode.com/coderayman/",
+  figma: 'https://www.figma.com/files/user/1225570186704193805?fuid=1225570186704193805',
+  resume: "https://docs.google.com/document/d/1fELH6JlFDfgUZWsoFBfTNl4iEKB8Wrbvln8_pwXs7lk/edit?usp=sharing"
 }

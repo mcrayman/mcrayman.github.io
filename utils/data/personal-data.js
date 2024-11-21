@@ -10,5 +10,5 @@ export const personalData = {
   linkedIn: 'https://www.linkedin.com/in/matthew-mcmeans-085828195/',
   leetcode: "https://leetcode.com/coderayman/",
   figma: 'https://www.figma.com/files/user/1225570186704193805?fuid=1225570186704193805',
-  resume: "https://docs.google.com/document/d/1XHwTnOJ1jrV9zue0lHhLtmi-eYLLSKqkhgSd2781kE8/edit"
+  resume: "https://docs.google.com/document/d/1bAGmjN4KopIOJq1E7Nh9oSqwqHBK1jwOaCA4q2oc6U8/edit?usp=sharing"
 }

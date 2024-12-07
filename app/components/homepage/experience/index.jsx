@@ -40,6 +40,7 @@ function Experience() {
             <div className="flex flex-col gap-6">
               {
                 experiences.map(experience => (
+                  <a href={experience.link} target="_blank" rel="noreferrer" key={experience.id} className="hover:scale-[1.05] transition-all duration-500">
                   <GlowCard key={experience.id} identifier={`experience-${experience.id}`}>
                     <div className="p-3 relative">
                       <Image
@@ -74,6 +75,7 @@ function Experience() {
                       </div>
                     </div>
                   </GlowCard>
+                  </a>
                 ))
               }
             </div>

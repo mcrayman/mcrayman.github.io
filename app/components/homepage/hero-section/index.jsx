@@ -114,8 +114,6 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">.Net</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Rails</span>
-                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Bootstrap</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Tailwind</span>

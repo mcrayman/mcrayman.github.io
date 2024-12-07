@@ -28,7 +28,7 @@ function AboutSection() {
             width={300}
             height={230}
             alt="Matthew McMeans"
-            className="rounded-lg transition-all duration-1000  hover:scale-110 cursor-pointer"
+            className="rounded-lg transition-all duration-1000  hover:scale-110 "
           />
         </div>
       </div>

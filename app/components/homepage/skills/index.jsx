@@ -30,7 +30,6 @@ function Skills() {
         <Marquee
           gradient={false}
           speed={80}
-          pauseOnHover={true}
           pauseOnClick={true}
           delay={0}
           play={true}

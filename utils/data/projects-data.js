@@ -3,53 +3,44 @@ import ayla from '/public/image/ayla.jpg';
 export const projectsData = [
     {
         id: 1,
-        name: 'Speech to Text AI',
-        description: "Developed an innovative speech-to-text feature for Dichotics Inc. as part of a Capstone project, utilizing Assembly AI's API with Node.js and integrating with Ruby on Rails for front-end processing. This system plays synchronous words through headphones, records the user's spoken response, processes it via Assembly AI for high-accuracy transcription, and automatically selects the transcribed word on the front end, greatly enhancing the diagnostic process of Amblyaudia in children.",
-        tools: ['Ruby on Rails', 'Assembly AI', 'HTML', 'CSS', 'JavaScript', 'Bootstrap'],
-        role: 'Full Stack Developer',
-        code: '',
-        demo: '',
-        image: ayla,
-    },
-    {
-        id: 2,
         name: 'The Foodies App',
         description: 'I have designed and developed a NextJS web app for food lovers to browse and share meals from all over the world.',
         tools: ['NextJS', 'Tailwind CSS', 'Bootstrap',  "JavaScript", 'Firebase'],
         role: 'Full Stack Developer',
-        code: '',
-        demo: '',
-        image: ayla,
+        link: 'https://github.com/mcrayman/The-Foodies-App'
     },
     {
-        id: 3,
+        id: 2,
         name: 'NEXTEVENTS',
         description: 'Developed A web application which highlights Next.js routing features. Users may see latest, archived, and filtered news articles.',
         tools: ['NextJS', 'JavaScript', 'HTML', 'CSS', 'Bootstrap', 'SQLite'],
         role: 'Full Stack Developer',
-        code: '',
-        demo: '',
-        image: ayla,
+        link: 'https://github.com/mcrayman/NextEvents'
     },
     {
-        id: 4,
+        id: 3,
         name: 'NEXTNEWS',
         description: 'Developed A web application which highlights Next.js routing features. Users may see latest, archived, and filtered news articles.',
         tools: ['NextJS', 'JavaScript', 'HTML', 'CSS', 'Bootstrap', 'SQLite'],
         role: 'Full Stack Developer',
-        code: '',
-        demo: '',
-        image: ayla,
+        link: 'https://github.com/mcrayman/NextNews'
     },
     {
-        id: 5,
+        id: 4,
         name: 'Friendly Feline',
         description: 'My team and I built a Ruby on Rails e commerce store for cat lovers and their cats.',
         tools: ['Ruby on Rails', 'HTML', 'CSS', 'JavaScript', 'Bootstrap'],
         role: 'Full Stack Developer',
-        code: '',
-        demo: '',
-        image: ayla,
+        link: 'https://github.com/mcrayman/Friendly-Feline'
+    },
+    {
+        id: 5,
+        name: 'Cookies Vibe',
+        description: 'I developed a web application all for my cat, Cookie, as a way to post photos and leave comments of her adventures.',
+        tools: ['Ruby on Rails', 'HTML', 'CSS', 'JavaScript', 'Bootstrap'],
+        role: 'Full Stack Developer',
+        link: 'https://github.com/mcrayman/Cookies-Vibe'
+
     },
 ];
 

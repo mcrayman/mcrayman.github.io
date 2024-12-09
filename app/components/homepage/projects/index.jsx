@@ -1,10 +1,12 @@
 import { projectsData } from '@/utils/data/projects-data';
 import ProjectCard from './project-card';
+import AnimationLottie from "../../helper/animation-lottie";
+import experience from '/public/lottie/code.json';
 
 const Projects = () => {
 
   return (
-    <div id='projects' className="relative z-50  my-12 lg:my-24">
+    <div id='projects' className="relative z-50  my-12 lg:my-24 ">
       <div className="flex justify-center my-5 lg:py-8">
         <div className="flex  items-center">
           <span className="w-24 h-[2px] bg-[#1a1443]"></span>
@@ -28,6 +30,9 @@ const Projects = () => {
               </div>
             </div>
           ))}
+        <div className="w-full h-full">
+              <AnimationLottie animationPath={experience} />
+        </div>
         </div>
       </div>
     </div>

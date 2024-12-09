@@ -1,5 +1,5 @@
 export const contactsData = {
-    email: 'mrmcmans@memphis.edu',
+    email: 'matthewrmcmeans@gmail.com',
     phone: '+9014173019',
     address: 'Memphis, Tennessee - 38111 ',
     github: 'https://github.com/mcrayman',

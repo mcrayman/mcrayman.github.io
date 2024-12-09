@@ -1,7 +1,7 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer',
+    title: 'Software Developer',
     company: "Data Profits Inc.",
     duration: "(May 2023 - Present)",
     description: [
@@ -15,10 +15,12 @@ export const experiences = [
   },
   {
     id: 2,
-    title: "Software Engineer",
+    title: "Software Developer",
     company: "Dichotics Inc.",
     duration: "(January 2024 - May 2024)",
-    description: ["Developed a speech-to-text feature for the medical testing program using Assembly AI and websocket communication with low latency for real-time audio transcription providing 95% accuracy.",
+    description: [
+      "Dichotics Inc provides clinicians and schools with the tools they need to assess individuals for amblyaudia and to rehabilitate the binaural integration deficit of amblyaudia with ARIA treatment.", 
+      "Developed a speech-to-text feature for the medical testing program using Assembly AI and websocket communication with low latency for real-time audio transcription providing 95% accuracy.",
       "Impact: Contributed to the identification of children at risk of Amblyaudia, improving early detection and intervention. Eliminated the need for a trained moderator at testing locations in schools nationwide.",
       "Stack: JavaScript (Node.js); Ruby (Ruby on Rails); PostgreSQL; Bootstrap; Tailwind; Figma"],
     link: "https://www.dichoticsinc.com/"

@@ -29,10 +29,10 @@ function Experience() {
       </div>
 
       <div className="py-8">
-        <div className="grid grid-cols-1 lg:grid-cols-3">
+        <div className="grid grid-cols-1 lg:grid-cols-1">
           <div className="flex justify-center items-start lg:col-span-1">
             <div className="w-full h-full">
-              <AnimationLottie animationPath={experience} />
+
             </div>
           </div>
 
